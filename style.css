@@ -11,15 +11,11 @@
         padding: 10px;
     
 }
-.table{
-    color: black;
-}
+
 body{
     background-color:white;
 }
-.box-c{
-    background-color: rgb(252 252 252);
-}
+
 .u-h1 h1:after {
     background: linear-gradient( #247ce2 0%,#2f20fa 0%, #06ccfd 100%);
     content: "";
